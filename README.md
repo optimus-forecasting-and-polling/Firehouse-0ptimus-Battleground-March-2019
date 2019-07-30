@@ -1,5 +1,5 @@
 # Firehouse-0ptimus-Battleground-March-2019
-This repo contains outputs from our Michigan, Pennsylvania, and Wisconsin Likely Voters Poll Conducted March 19-21, 2019.
+This repo contains outputs from our Michigan, Pennsylvania, and Wisconsin Likely Voters Poll conducted March 19-21, 2019.
 
 <a href="">Methodology Statement</a>
 
